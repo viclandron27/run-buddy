@@ -71,7 +71,7 @@ section {
 
 /* Hero Style Start */
 .hero {
-    background-image: url("../images/header.jpg");
+    background-image: url("../images/hero-bg.jpg");
     height: 600px;
     position: relative;
 }
@@ -95,11 +95,10 @@ section {
 }
 
 .hero-form p {
-    margin-top: 5px;
-    margin-bottom: 15px;
+    margin: 5px 0 15px 0;
 }
 
-.form input {
+.hero-form input {
     border: 1px solid #024e76;
     display: block;
     padding: 7px 15px;
